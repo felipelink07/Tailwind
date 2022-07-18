@@ -1,2 +1,2 @@
-# Tailwind
-Estudos do framework tailwind
+# Tailwind CSS
+Estudos do framework Tailwind
